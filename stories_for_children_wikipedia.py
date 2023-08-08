@@ -21,6 +21,7 @@ if query:
     with st.spinner("⏳ Writing the story ..."):
         wiki_research = wiki.run(query)
 
+    # Choose the GPT model (here gpt-3.5-turbo)
     GPT_MODEL = "gpt-3.5-turbo"
 
     # Write the query before writing the story
