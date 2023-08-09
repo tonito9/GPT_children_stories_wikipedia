@@ -1,4 +1,4 @@
-# Streamlit app to automatically write stories for children using Wikipedia knowledge and GPT.
+# Streamlit Python web app to automatically write stories for children using Wikipedia knowledge and GPT.
 
 ## Before running the app
 
